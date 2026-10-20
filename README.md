@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="assets/jianing-fan-editorial-v1.jpg" width="250" alt="AI-illustrated portrait of Jianing Fan, with research papers, civic architecture, and connected points in blue and gold">
-</p>
-
-<h1 align="center">Jianing (Bruce) Fan</h1>
+<h1 align="center">Hi, I’m Jianing (Bruce).</h1>
 
 <p align="center"><strong>AI engineering · Research · Public policy</strong></p>
 
@@ -23,6 +19,10 @@ I’m interested in how we turn messy information into useful evidence—and how
 **Whose concerns receive a response in EPA rulemaking?** An LLM-assisted, obligation-level study checked against blind human judgments. I formulated the research question and led the research.
 
 Jianing Fan and Yue Yao — co-first authors, equal contribution. **ACM EAAMO 2026**, accepted full paper and oral presentation. [Read paper →](https://arxiv.org/abs/2608.10329)
+
+[![Figure 1 from Who Gets Heeded? showing the obligation-level study, human-audited components, an unaudited commenter-type proxy, and a descriptive rhetoric schema](https://raw.githubusercontent.com/brucefjn/who-gets-heeded/main/figures/fig1_pipeline.png)](https://github.com/brucefjn/who-gets-heeded)
+
+*Our research framework, from the paper. Click the figure to explore the study and replication materials.*
 
 ### [Congressional speech analysis](https://github.com/brucefjn/Python_For_Public_Policy_Final_Project)
 
