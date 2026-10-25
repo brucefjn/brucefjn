@@ -1,14 +1,21 @@
 <h1 align="center">Hi, I’m Jianing (Bruce)</h1>
 
-<p align="center"><strong>AI engineering · Research · Public policy</strong><br>
-<em>Building with AI. Asking how we know.</em></p>
+<p align="center">
+  <a href="https://brucefjn.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1300&amp;color=377DCE&amp;center=true&amp;vCenter=true&amp;width=420&amp;height=52&amp;lines=AI+engineering+%26+research;LLM+workflows+%26+evaluation;Political+science+%E2%86%92+AI;M.I.A.+%40+Columbia+SIPA;Oil+%26+Chinese+painting" alt="AI engineering and research; LLM workflows and evaluation; political science to AI; M.I.A. at Columbia SIPA; oil and Chinese painting">
+  </a>
+</p>
+
+<p align="center"><em>Building with AI. Asking how we know.</em></p>
 
 <p align="center">
-  <a href="https://brucefjn.github.io/"><img src="https://img.shields.io/badge/Website-173D66?style=flat-square" height="24" alt="Visit my website"></a>
-  <a href="https://www.linkedin.com/in/brucefjn/"><img src="https://img.shields.io/badge/LinkedIn-245CA6?style=flat-square" height="24" alt="Connect on LinkedIn"></a>
-  <a href="https://brucefjn.github.io/assets/bruce-jianing-fan-resume.pdf"><img src="https://img.shields.io/badge/Resume-2D5C7C?style=flat-square" height="24" alt="Read my résumé (PDF)"></a>
-  <a href="mailto:jf3774@columbia.edu"><img src="https://img.shields.io/badge/Email-174F87?style=flat-square" height="24" alt="Email jf3774@columbia.edu"></a>
+  <a href="https://brucefjn.github.io/"><img src="https://img.shields.io/badge/Portfolio-brucefjn.github.io-245CA6?style=flat-square&amp;logo=firefox&amp;logoColor=white" alt="Portfolio: brucefjn.github.io"></a>
+  <a href="https://www.linkedin.com/in/brucefjn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn: Connect"></a>
+  <a href="https://brucefjn.github.io/assets/bruce-jianing-fan-resume.pdf"><img src="https://img.shields.io/badge/Resume-Read_PDF-173D66?style=flat-square&amp;logo=googledocs&amp;logoColor=white" alt="Resume: Read PDF"></a>
+  <a href="mailto:jf3774@columbia.edu"><img src="https://img.shields.io/badge/Email-jf3774%40columbia.edu-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email: jf3774@columbia.edu"></a>
 </p>
+
+---
 
 ## 👋 About me
 
@@ -69,14 +76,36 @@ Two unpublished political science essays by **Jianing Fan**, written from a **20
 ## 🧰 Tools I use
 
 <p>
-  <img src="https://img.shields.io/badge/Python-173D66?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-245CA6?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Hugging_Face-174F87?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
-  <img src="https://img.shields.io/badge/pandas-2D5C7C?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-  <img src="https://img.shields.io/badge/scikit--learn-173D66?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Flask-245CA6?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Azure-174F87?style=flat-square" alt="Azure">
-  <img src="https://img.shields.io/badge/Git-2D5C7C?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=black" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+</p>
+
+## 🗺️ Contribution map
+
+<p align="center">
+  <a href="https://github.com/brucefjn/brucefjn/blob/main/assets/activity/contributions-light.svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brucefjn/brucefjn/main/assets/activity/contributions-dark.svg">
+      <img src="https://raw.githubusercontent.com/brucefjn/brucefjn/main/assets/activity/contributions-light.svg" alt="A blue 3D map of my actual GitHub contributions, with activity and language breakdowns">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><sub>Updated daily from my GitHub activity. Select the map for a larger view.</sub></p>
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brucefjn/brucefjn/main/assets/activity/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/brucefjn/brucefjn/main/assets/activity/snake-light.svg" alt="An animated blue snake following my GitHub contribution grid">
+  </picture>
 </p>
 
 ## 🎨 Outside the code
