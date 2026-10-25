@@ -120,15 +120,12 @@ Two unpublished political science essays by **Jianing Fan**, written from a **20
 ## 🗺️ Contribution map
 
 <p align="center">
-  <a href="https://github.com/brucefjn/brucefjn/blob/main/assets/activity/contributions-light.svg">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brucefjn/brucefjn/main/assets/activity/contributions-dark.svg">
-      <img src="https://raw.githubusercontent.com/brucefjn/brucefjn/main/assets/activity/contributions-light.svg" alt="A blue 3D map of my public GitHub contributions, with activity and language breakdowns">
-    </picture>
+  <a href="https://github.com/brucefjn/brucefjn/blob/main/github-metrics.svg">
+    <img src="https://raw.githubusercontent.com/brucefjn/brucefjn/main/github-metrics.svg" alt="GitHub Metrics: activity, languages, and a full-year isometric contribution calendar, including anonymized private contributions">
   </a>
 </p>
 
-<p align="center"><sub>Public GitHub activity · updated daily. Select the map for a larger view.</sub></p>
+<p align="center"><sub>Public repositories and anonymized private contribution counts · refreshes daily at 07:23 UTC.<br>Select the card for a larger view. <a href="https://github.com/brucefjn/brucefjn/actions/workflows/profile-visuals.yml">Update status</a></sub></p>
 
 ## 🐍 Contribution snake
 
