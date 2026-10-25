@@ -1,41 +1,89 @@
-<h1 align="center">Hi, I’m Jianing (Bruce).</h1>
+<h1 align="center">Hi, I’m Jianing (Bruce) 👋</h1>
 
-<p align="center"><strong>AI engineering · Research · Public policy</strong></p>
+<p align="center"><strong>AI engineering · Research · Public policy</strong><br>
+<em>Building with AI. Asking how we know.</em></p>
 
 <p align="center">
-  <a href="https://brucefjn.github.io/">Website</a> ·
-  <a href="https://www.linkedin.com/in/brucefjn/">LinkedIn</a> ·
-  <a href="mailto:jf3774@columbia.edu">Email</a>
+  <a href="https://brucefjn.github.io/"><img src="https://img.shields.io/badge/Website-173D66?style=for-the-badge" alt="Visit my website"></a>
+  <a href="https://www.linkedin.com/in/brucefjn/"><img src="https://img.shields.io/badge/LinkedIn-245CA6?style=for-the-badge" alt="Connect on LinkedIn"></a>
+  <a href="https://brucefjn.github.io/assets/bruce-jianing-fan-resume.pdf"><img src="https://img.shields.io/badge/Resume-2D5C7C?style=for-the-badge" alt="Read my résumé (PDF)"></a>
+  <a href="mailto:jf3774@columbia.edu"><img src="https://img.shields.io/badge/Email-174F87?style=for-the-badge" alt="Email jf3774@columbia.edu"></a>
 </p>
 
-I build and evaluate AI systems, drawing on a background in political science and public policy. I’m pursuing an **M.I.A. at Columbia SIPA**, concentrating in Data Science for Policy (expected May 2027), where I’ve developed my skills in computing, machine learning, and AI for policy.
+## 👋 About me
 
-I’m interested in how we turn messy information into useful evidence—and how we know when to trust the tools doing that work. Those questions connect my research on institutional decision-making with my work on LLM workflows, retrieval, and AI evaluation.
+I’m pursuing an **M.I.A. at Columbia SIPA**, concentrating in **Data Science for Policy** (expected May 2027). Previously, I earned a **B.A. in Political Science at UCLA**.
 
-## Research & projects
+I came to AI through questions about representation, institutions, and how information becomes evidence. At Columbia, I’ve deepened my skills in computing and machine learning, connecting that background to AI engineering and research. I’m interested in building useful systems and understanding when their outputs deserve our trust.
 
-### [Who Gets Heeded?](https://github.com/brucefjn/who-gets-heeded)
+## ⚡ What I’m working on
 
-**Whose concerns receive a response in EPA rulemaking?** An LLM-assisted, obligation-level study checked against blind human judgments. I formulated the research question and led the research.
+- **AI Software Engineer · Columbia SIPA, part-time** — contributing to an instructor-led AI tutoring project, with model configuration, behavioral evaluation, and workflow documentation.
+- **Advanced Technical Fellow · [Columbia AI Alignment Club](https://www.cualignment.org/get_involved/advanced-technical-fellowship)** — studying interpretability, evaluations, and alignment through ARENA material.
 
-Jianing Fan and Yue Yao — co-first authors, equal contribution. **ACM EAAMO 2026**, accepted full paper and oral presentation. [Read paper →](https://arxiv.org/abs/2608.10329)
+**Exploring:** LLM workflows · AI evaluation and reliability · Human–AI collaboration · Computational social science
 
-[![Figure 1 from Who Gets Heeded? showing the obligation-level study, human-audited components, an unaudited commenter-type proxy, and a descriptive rhetoric schema](https://raw.githubusercontent.com/brucefjn/who-gets-heeded/main/figures/fig1_pipeline.png)](https://github.com/brucefjn/who-gets-heeded)
+## 🛠️ Work & projects
 
-*Our research framework, from the paper. Click the figure to explore the study and replication materials.*
+**[AI workflows at Noah Medical](https://brucefjn.github.io/#noah-medical)** · Professional work<br>
+LLM-assisted evidence retrieval and complaint analysis, a Flask backend deployed on Azure, and Salesforce API data pipelines for regulated monitoring.<br>
+`Python` `Flask` `Azure` `LLM workflows`
 
-### [Congressional speech analysis](https://github.com/brucefjn/Python_For_Public_Policy_Final_Project)
+**[DistilBERT sentiment analysis](https://github.com/brucefjn/ML-Sentiment-Analysis-)** · Course project<br>
+Fine-tuning a movie-review classifier, interactive predictions, and error analysis. Includes a documented data audit and a corrected rerun workflow.<br>
+`PyTorch` `Hugging Face` `Model evaluation`
 
-**How does the sentiment of congressional speech vary over time?** A computational social science course project using Congressional Record text, speaker metadata, and VADER. The repository includes the corrected speech-level merge, a reproducible analysis, and its limitations.
+**[Congressional speech analysis](https://github.com/brucefjn/Python_For_Public_Policy_Final_Project)** · Course project<br>
+Combining Congressional Record text and speaker metadata to explore party-level sentiment over time, with a reproducible analysis and explicit measurement limits.<br>
+`Python` `pandas` `VADER` `Statistical analysis`
 
-### [DistilBERT sentiment analysis](https://github.com/brucefjn/ML-Sentiment-Analysis-)
+## 🔬 Research
 
-**What does a fine-tuned language model learn about movie reviews?** A course project covering DistilBERT fine-tuning, interactive predictions, and error analysis. The repository distinguishes the original experiment from a clean rerun workflow and documents the data audit.
+### [Who Gets Heeded?](https://arxiv.org/abs/2608.10329)
 
-## AI in practice
+*An Obligation-Level Audit of Responsiveness in EPA Rulemaking*
 
-At **Noah Medical**, my work included LLM-assisted retrieval and review, a Flask backend, and data pipelines for complaint analytics and regulated monitoring. [View the work →](https://brucefjn.github.io/#noah-medical)
+**Jianing Fan**, Yue Yao · Co-first authors, equal contribution<br>
+**ACM EAAMO 2026 · Accepted full paper and oral presentation**
+
+An LLM-assisted study of responsiveness in EPA rulemaking, with blind human audits of its measurements. **I formulated the research question and led the research.**
+
+[Read paper ↗](https://arxiv.org/abs/2608.10329) · [Code & replication materials ↗](https://github.com/brucefjn/who-gets-heeded)
+
+<details>
+<summary>Explore the research framework</summary>
+
+[![Figure 1 from Who Gets Heeded? showing the obligation-level study, human-audited components, an unaudited commenter-type proxy, and a descriptive rhetoric schema](https://raw.githubusercontent.com/brucefjn/who-gets-heeded/main/figures/fig1_pipeline.png)](https://github.com/brucefjn/who-gets-heeded/blob/main/figures/fig1_pipeline.png)
+
+*Figure 1 from our paper. The framework distinguishes audited measurements, an unaudited commenter-type proxy, and a descriptive rhetoric schema.*
+
+</details>
+
+## ✍️ Writing
+
+Two unpublished political science essays by **Jianing Fan**, written from a **2022 perspective**:
+
+- **[Data and Politics: Power and the Formatting of Constituents’ Opinions](https://brucefjn.github.io/assets/data-and-politics-2022.pdf)** — how the categories used to record constituents’ opinions shape representation, informed by my internship in Congressman Ted Lieu’s office.
+- **[From Disjunction to Reconstruction](https://brucefjn.github.io/assets/disjunction-and-reconstruction-2022.pdf)** — Trump, Biden, and presidential authority through Stephen Skowronek’s framework.
+
+## 🧰 Tools I use
+
+<p>
+  <img src="https://img.shields.io/badge/Python-173D66?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-245CA6?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging_Face-174F87?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/pandas-2D5C7C?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/scikit--learn-173D66?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Flask-245CA6?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Azure-174F87?style=flat-square" alt="Azure">
+  <img src="https://img.shields.io/badge/Git-2D5C7C?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+## 🎨 Outside the code
+
+I enjoy **oil painting and Chinese painting**.
 
 ---
 
-<p align="center">Building with AI. Asking how we know.</p>
+<p align="center">Interested in AI engineering, research, or a conversation across technology and public policy?<br>
+<a href="mailto:jf3774@columbia.edu"><strong>Let’s connect.</strong></a></p>
