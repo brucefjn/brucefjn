@@ -9,10 +9,10 @@
 <p align="center"><em>Building with AI. Asking how we know.</em></p>
 
 <p align="center">
-  <a href="https://brucefjn.github.io/"><img src="https://img.shields.io/badge/Portfolio-brucefjn.github.io-245CA6?style=flat-square&amp;logo=firefox&amp;logoColor=white" alt="Portfolio: brucefjn.github.io"></a>
+  <a href="https://brucefjn.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-245CA6?style=flat-square&amp;logo=firefox&amp;logoColor=white" alt="Portfolio: brucefjn.github.io"></a>
   <a href="https://www.linkedin.com/in/brucefjn/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn: Connect"></a>
   <a href="https://brucefjn.github.io/assets/bruce-jianing-fan-resume.pdf"><img src="https://img.shields.io/badge/Resume-Read_PDF-173D66?style=flat-square&amp;logo=googledocs&amp;logoColor=white" alt="Resume: Read PDF"></a>
-  <a href="mailto:jf3774@columbia.edu"><img src="https://img.shields.io/badge/Email-jf3774%40columbia.edu-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email: jf3774@columbia.edu"></a>
+  <a href="mailto:jf3774@columbia.edu"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email: jf3774@columbia.edu"></a>
 </p>
 
 ---
