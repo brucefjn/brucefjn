@@ -92,12 +92,12 @@ Two unpublished political science essays by **Jianing Fan**, written from a **20
   <a href="https://github.com/brucefjn/brucefjn/blob/main/assets/activity/contributions-light.svg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brucefjn/brucefjn/main/assets/activity/contributions-dark.svg">
-      <img src="https://raw.githubusercontent.com/brucefjn/brucefjn/main/assets/activity/contributions-light.svg" alt="A blue 3D map of my actual GitHub contributions, with activity and language breakdowns">
+      <img src="https://raw.githubusercontent.com/brucefjn/brucefjn/main/assets/activity/contributions-light.svg" alt="A blue 3D map of my public GitHub contributions, with activity and language breakdowns">
     </picture>
   </a>
 </p>
 
-<p align="center"><sub>Updated daily from my GitHub activity. Select the map for a larger view.</sub></p>
+<p align="center"><sub>Public GitHub activity · updated daily. Select the map for a larger view.</sub></p>
 
 ## 🐍 Contribution snake
 
