@@ -8,7 +8,6 @@ on:
     branches: [main]
     paths:
       - .github/workflows/profile-visuals.yml
-      - config/contribution-map.json
 
 permissions:
   contents: write
@@ -20,18 +19,29 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - name: Check out profile
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
-      - name: Generate 3D contribution maps
-        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: config/contribution-map.json
-          TZ: America/New_York
+      - name: Generate classic Metrics card
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: brucefjn
+          filename: github-metrics.svg
+          output_action: none
+          template: classic
+          config_timezone: America/New_York
+          base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner
+          repositories_forks: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugins_errors_fatal: yes
 
       - name: Generate contribution snakes
         uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
@@ -44,11 +54,11 @@ jobs:
       - name: Publish generated graphics
         run: |
           mkdir -p assets/activity
-          cp profile-3d-contrib/contributions-light.svg assets/activity/
-          cp profile-3d-contrib/contributions-dark.svg assets/activity/
+          cp /metrics_renders/github-metrics.svg github-metrics.svg
+          test -s github-metrics.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/activity
+          git add github-metrics.svg assets/activity
           if git diff --cached --quiet; then
             exit 0
           fi
