@@ -73,17 +73,48 @@ Two unpublished political science essays by **Jianing Fan**, written from a **20
 - **[Data and Politics: Power and the Formatting of Constituents’ Opinions](https://brucefjn.github.io/assets/data-and-politics-2022.pdf)** — how the categories used to record constituents’ opinions shape representation, informed by my internship in Congressman Ted Lieu’s office.
 - **[From Disjunction to Reconstruction](https://brucefjn.github.io/assets/disjunction-and-reconstruction-2022.pdf)** — Trump, Biden, and presidential authority through Stephen Skowronek’s framework.
 
-## 🧰 Tools I use
+## 🧰 Tech stack
+
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&amp;logo=css&amp;logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/SQL_%2F_SOQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="SQL / SOQL">
+</p>
+
+**AI, ML & data**
+
+<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face Transformers">
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=black" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+</p>
+
+**Tools & cloud**
+
+<p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&amp;logo=gitlab&amp;logoColor=white" alt="GitLab">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest">
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&amp;logo=salesforce&amp;logoColor=white" alt="Salesforce">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square" alt="Azure">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="CI/CD">
 </p>
 
 ## 🗺️ Contribution map
