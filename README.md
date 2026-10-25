@@ -48,14 +48,14 @@ Combining Congressional Record text and speaker metadata to explore party-level 
 
 An LLM-assisted study of responsiveness in EPA rulemaking, with blind human audits of its measurements. **I formulated the research question and led the research.**
 
-[Read paper ↗](https://arxiv.org/abs/2608.10329) · [Code & replication materials ↗](https://github.com/brucefjn/who-gets-heeded)
+[Read paper](https://arxiv.org/abs/2608.10329) · [Code & replication](https://github.com/brucefjn/who-gets-heeded)
 
 <details>
 <summary>Explore the research framework</summary>
 
 [![Figure 1 from Who Gets Heeded? showing the obligation-level study, human-audited components, an unaudited commenter-type proxy, and a descriptive rhetoric schema](https://raw.githubusercontent.com/brucefjn/who-gets-heeded/main/figures/fig1_pipeline.png)](https://github.com/brucefjn/who-gets-heeded/blob/main/figures/fig1_pipeline.png)
 
-*Figure 1 from our paper. The framework distinguishes audited measurements, an unaudited commenter-type proxy, and a descriptive rhetoric schema.*
+*Figure 1 from our paper. Select the image to view it at full size.*
 
 </details>
 
