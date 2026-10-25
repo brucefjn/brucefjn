@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I’m Jianing (Bruce) 👋</h1>
+<h1 align="center">Hi, I’m Jianing (Bruce)</h1>
 
 <p align="center"><strong>AI engineering · Research · Public policy</strong><br>
 <em>Building with AI. Asking how we know.</em></p>
 
 <p align="center">
-  <a href="https://brucefjn.github.io/"><img src="https://img.shields.io/badge/Website-173D66?style=for-the-badge" alt="Visit my website"></a>
-  <a href="https://www.linkedin.com/in/brucefjn/"><img src="https://img.shields.io/badge/LinkedIn-245CA6?style=for-the-badge" alt="Connect on LinkedIn"></a>
-  <a href="https://brucefjn.github.io/assets/bruce-jianing-fan-resume.pdf"><img src="https://img.shields.io/badge/Resume-2D5C7C?style=for-the-badge" alt="Read my résumé (PDF)"></a>
-  <a href="mailto:jf3774@columbia.edu"><img src="https://img.shields.io/badge/Email-174F87?style=for-the-badge" alt="Email jf3774@columbia.edu"></a>
+  <a href="https://brucefjn.github.io/"><img src="https://img.shields.io/badge/Website-173D66?style=flat-square" height="24" alt="Visit my website"></a>
+  <a href="https://www.linkedin.com/in/brucefjn/"><img src="https://img.shields.io/badge/LinkedIn-245CA6?style=flat-square" height="24" alt="Connect on LinkedIn"></a>
+  <a href="https://brucefjn.github.io/assets/bruce-jianing-fan-resume.pdf"><img src="https://img.shields.io/badge/Resume-2D5C7C?style=flat-square" height="24" alt="Read my résumé (PDF)"></a>
+  <a href="mailto:jf3774@columbia.edu"><img src="https://img.shields.io/badge/Email-174F87?style=flat-square" height="24" alt="Email jf3774@columbia.edu"></a>
 </p>
 
 ## 👋 About me
